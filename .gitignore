@@ -134,6 +134,10 @@ data/raw/*
 # PDF's file
 *.pdf
 
+# Pics
+*.png
+*.jpg
+
 # Archive
 *.zip
 *.rar
